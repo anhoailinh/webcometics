@@ -1,0 +1,141 @@
+﻿
+@model webQuanao2.Models.User
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "_ProductsDetail";
+
+}
+<!-- Section: Design Block -->
+<section class="">
+    <!-- Jumbotron -->
+    <div class="px-4 py-5 px-md-5 text-center text-lg-start" style="background-color: #ffdbe2">
+        <div class="container">
+            <div class="row gx-lg-5 align-items-center">
+                <div class="col-md-6 col-lg-5 d-none d-md-block">
+              <img  src="~/images/dangki.jpg"
+                         alt="login form" class="img-fluid" style="border-radius: 1rem 1rem 1rem 1rem;    margin-left: 26px; margin-top: 1px;    height: 537px;" />
+            </div>
+
+                <div class="col-lg-6 mb-5 mb-lg-0">
+                    <div class="card">
+                        <div class="card-body py-5 px-md-5">
+                            <form asp-action="Register" asp-controller="Users">
+                                <div class="d-flex align-items-center mb-3 pb-1">
+
+                                    <span class="h1 fw-bold mb-0">
+                                        <img style="    width: 150px;  margin-left: 150px;" src="~/images/llogoahl.png" />
+                                    </span>
+                                </div>
+
+                                <h5 class="fw-normal mb-3 pb-3" style="font-weight:bold; color:red">SIGN IN NOW</h5>
+
+                                <!-- Name input -->
+                                <div class="form-outline mb-4">
+                                    <input asp-for="Name"  id="form3Example3" class="form-control" />
+                                    <label class="form-label" for="form3Example3">Name</label>
+
+                                </div>
+                                <!-- Email input -->
+                                <div class="form-outline mb-4 form-group">
+                                    <input asp-for="Email" type="email" id="form3Example3" class="form-control" />
+                                    <label class="form-label" for="form3Example3">Email address</label>
+                                     <span asp-validation-for="Email" class="text-danger"></span>
+                                </div>
+
+                                <!-- Password input -->
+                                <div class="form-outline mb-4">
+                                    <input asp-for="Password" type="password" id="form3Example4" class="form-control" />
+                                    <label class="form-label" for="form3Example4">Password</label>
+                                </div>
+
+                                <!-- Checkbox -->
+                            
+
+                                <!-- Submit button -->
+                                <button type="submit" class="btn btn-primary btn-block mb-4">
+                                    Sign up
+                                </button>
+
+                                <!-- Register buttons
+
+                                <div class="text-center">
+                                                                    <p>or sign up with:</p>
+                                                                    <button type="button" class="btn btn-link btn-floating mx-1">
+                                                                        <i class="fab fa-facebook-f"></i>
+                                                                    </button>
+
+                                                                    <button type="button" class="btn btn-link btn-floating mx-1">
+                                                                        <i class="fab fa-google"></i>
+                                                                    </button>
+
+                                                                    <button type="button" class="btn btn-link btn-floating mx-1">
+                                                                        <i class="fab fa-twitter"></i>
+                                                                    </button>
+
+                                                                    <button type="button" class="btn btn-link btn-floating mx-1">
+                                                                        <i class="fab fa-github"></i>
+                                                                    </button>
+                                                                </div>
+                                -->
+                               
+    
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+  
+    <!-- Jumbotron -->
+    <!--
+</section>
+ Section: Design Block
+<form asp-action="Register" asp-controller="Users" style="padding-left:300px; padding-top:50px">
+    <h1>Create</h1>
+
+    <h4>User</h4>
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="Name" class="control-label"></label>
+                    <input asp-for="Name" class="form-control" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Email" class="control-label"></label>
+                    <input asp-for="Email" class="form-control" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div><div class="form-outline mb-4 form-group">
+                    <input asp-for="Email" type="email" id="form3Example3" class="form-control" />
+                    <label class="form-label" for="form3Example3">Email address</label>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Password" class="control-label"></label>
+                    <input asp-for="Password" class="form-control" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div>
+        <a asp-action="Index">Back to List</a>
+    </div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    }
+</form>
+
+-->

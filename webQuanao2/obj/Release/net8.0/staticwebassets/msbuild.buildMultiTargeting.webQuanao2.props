@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\webQuanao2.props" />
+</Project>

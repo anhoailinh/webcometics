@@ -1,0 +1,339 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = webQuanao2
+build_property.RootNamespace = webQuanao2
+build_property.ProjectDir = D:\!!!\Điện toán ĐÁM MÂY\ShopMyPham\ShopMyPham\webQuanao2\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = D:\!!!\Điện toán ĐÁM MÂY\ShopMyPham\ShopMyPham\webQuanao2
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Blog/BlogDetail1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nRGV0YWlsMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Blog/BlogDetail2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nRGV0YWlsMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Blog/BlogDetail3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nRGV0YWlsMy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Blog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Cart/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Cart/checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxjaGVja291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Categories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Colors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sb3JzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Colors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sb3JzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Colors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sb3JzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Colors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sb3JzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Colors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sb3JzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Home/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/OrderDetails/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/OrderDetails/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/OrderDetails/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/OrderDetails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/OrderDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Orders/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Orders/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Orders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Orders/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Orders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Products111/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHMxMTFcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Products111/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHMxMTFcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Products111/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHMxMTFcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Products111/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHMxMTFcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Products111/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHMxMTFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Products1/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHMxXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Products1/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHMxXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Products1/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHMxXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Products1/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHMxXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Products1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHMxXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/ProductsDetail/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNEZXRhaWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Shared/Components/CartWidget/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2FydFdpZGdldFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Shared/Components/checkout/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcY2hlY2tvdXRcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Shared/Components/Navbar/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTmF2YmFyXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Shared/Components/NavMenu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTmF2TWVudVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Shared/Components/Seach/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2VhY2hcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Shared/Components/size/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcc2l6ZVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Shared/Components/thongtin/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcdGhvbmd0aW5cRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Shared/_Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Shared/_Blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CbG9nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Shared/_Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Shared/_Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Shared/_Products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Shared/_ProductsDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qcm9kdWN0c0RldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Shared/_ReturnProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9SZXR1cm5Qcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Sizes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l6ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Sizes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l6ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Sizes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l6ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Sizes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l6ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Sizes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l6ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Users/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Users/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/\!\!\!/Điện toán ĐÁM MÂY/ShopMyPham/ShopMyPham/webQuanao2/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-nmy6fuyatb

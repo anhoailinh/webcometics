@@ -1,0 +1,48 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model IEnumerable<webQuanao2.Models.Products>
+
+<div class="row isotope-grid" style="margin:14px">
+		@foreach (var item in Model) {
+		if (@item.ProductsHot == true){
+	<div class="col-sm-6 col-md-4 col-lg-3 p-b-35 isotope-item women">
+		<!-- Block2 -->
+		<div class="block2">
+			<div class="block2-pic hov-img0">
+				<img src="~/images/@item.Img1" alt="IMG-PRODUCT">
+
+				<a  asp-action="Details" asp-controller="Products" asp-route-id="@item.Id" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 ">
+					Mua ngay
+				</a>
+			</div>
+
+			<div class="block2-txt flex-w flex-t p-t-14">
+				<div class="block2-txt-child1 flex-col-l ">
+						<a asp-action="Details" asp-controller="Products" asp-route-id="@item.Id" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
+						@item.Name
+					</a>
+
+					<span class="stext-105 cl3">
+						@item.Price
+					</span>
+				</div>
+
+				<div class="block2-txt-child2 flex-r p-t-3">
+							<a href="/Cart/AddToCart/?productId= @item.Id" class="btn-addwish-b2 dis-block pos-relative ">
+
+								<i style="font-size:20px" class="zmdi zmdi-shopping-cart"></i>
+
+
+							</a>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	}}
+</div>
+
+	

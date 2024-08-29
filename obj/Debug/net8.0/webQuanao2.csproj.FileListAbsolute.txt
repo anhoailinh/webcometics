@@ -1,0 +1,5 @@
+D:\monWEB\monwebBackend\webthoitrang\webQuanao2\obj\Debug\net8.0\webQuanao2.GeneratedMSBuildEditorConfig.editorconfig
+D:\monWEB\monwebBackend\webthoitrang\webQuanao2\obj\Debug\net8.0\webQuanao2.AssemblyInfoInputs.cache
+D:\monWEB\monwebBackend\webthoitrang\webQuanao2\obj\Debug\net8.0\webQuanao2.AssemblyInfo.cs
+D:\monWEB\monwebBackend\webthoitrang\webQuanao2\obj\Debug\net8.0\webQuanao2.csproj.CoreCompileInputs.cache
+D:\monWEB\monwebBackend\webthoitrang\webQuanao2\obj\Debug\net8.0\webQuanao2.csproj.AssemblyReference.cache

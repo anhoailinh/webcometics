@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMYu2N4YCvkWKSTJab4hH7QAAAAACAAAAAAAQZgAAAAEAACAAAAC1x1PsuwiJyMazG7vi+gmS2SUF5mKtlD6ahqOQBE8WLgAAAAAOgAAAAAIAACAAAACea3f1QNfTW/qCuDNCxsfIkUYl2lnbya5/keab5EXJXzAAAADQQh/HBFXc3ryC0g9SQnwnTq7x8TPVVJVtU1luZbZJDjPxp84D51j8SjrbxEJCQDxAAAAAE0Y4/3Bc/2GTwOTUWK4jS1hr0IsE4zWThSYj0k/mIST/7B06P5vywCk/yO3jJl/sfIe8mCTMWXupUZXTsDA3kQ==</EncryptedPassword>
+    <History>True|2024-08-28T05:57:09.8129310Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="webQuanao2Context">
+      <Value>Server=tcp:shopmypham-sv.database.windows.net,1433%3bInitial Catalog=shopmypham%3bPersist Security Info=False%3bUser ID=shopmypham_admin%3bPassword=Tranthiphuong16%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,23 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model IEnumerable<webQuanao2.Models.Category>
+<div class="flex-w flex-sb-m p-b-52">
+	<div class="flex-w flex-l-m filter-tope-group m-tb-10">
+		<a href="/Products">
+		<button class="stext-106 cl6 hov1 bor3 trans-04 m-r-32 m-tb-5 how-active1" data-filter="*">
+			Tất cả sản phẩm
+		</button>
+		</a>
+		@foreach (var item in Model) {
+			<a href="/Products/category?Catid=@item.Id">
+		<button class="stext-106 cl6 hov1 bor3 trans-04 m-r-32 m-tb-5" data-filter=".women">
+			@item.Name
+		</button>
+			</a>
+		}
+
+
+	</div>

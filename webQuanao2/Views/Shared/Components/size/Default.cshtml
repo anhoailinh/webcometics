@@ -1,0 +1,18 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+<select class="js-select2 select2-hidden-accessible" name="Size" tabindex="-1" aria-hidden="true">
+	<option>Choose an option</option>
+	@foreach (var size in ViewBag.Sizes)
+	{
+		<option>@size.Name</option>
+	}
+	<option>S</option>
+	<option>Size M</option>
+	<option>Size L</option>
+	<option>Size XL</option>
+</select>

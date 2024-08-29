@@ -1,0 +1,527 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model IEnumerable<webQuanao2.Models.Products>
+
+<!-- Header Mobile -->
+<div class="wrap-header-mobile">
+	<!-- Logo moblie -->
+	<div class="logo-mobile">
+		<a href="index.html"><img src="~/images/llogoahl.png" alt="IMG-LOGO"></a>
+	</div>
+
+	<!-- Icon header -->
+	<div class="wrap-icon-header flex-w flex-r-m m-r-15">
+		<div class="icon-header-item cl2 hov-cl1 trans-04 p-r-11 js-show-modal-search">
+			<i class="zmdi zmdi-search"></i>
+		</div>
+
+		<div class="icon-header-item cl2 hov-cl1 trans-04 p-r-11 p-l-10 icon-header-noti js-show-cart" data-notify="2">
+			<i class="zmdi zmdi-shopping-cart"></i>
+		</div>
+
+		<a href="#" class="dis-block icon-header-item cl2 hov-cl1 trans-04 p-r-11 p-l-10 icon-header-noti" data-notify="0">
+			<i class="zmdi zmdi-favorite-outline"></i>
+		</a>
+	</div>
+
+	<!-- Button show menu -->
+	<div class="btn-show-menu-mobile hamburger hamburger--squeeze">
+		<span class="hamburger-box">
+			<span class="hamburger-inner"></span>
+		</span>
+	</div>
+</div>
+
+
+<!-- Menu Mobile -->
+
+
+<!-- Modal Search -->
+@await Component.InvokeAsync("Seach")
+	</header>
+
+<!-- Cart -->
+<div class="wrap-header-cart js-panel-cart">
+	<div class="s-full js-hide-cart"></div>
+
+	<div class="header-cart flex-col-l p-l-65 p-r-25">
+		<div class="header-cart-title flex-w flex-sb-m p-b-8">
+			<span class="mtext-103 cl2">
+				Your Cart
+			</span>
+
+			<div class="fs-35 lh-10 cl2 p-lr-5 pointer hov-cl1 trans-04 js-hide-cart">
+				<i class="zmdi zmdi-close"></i>
+			</div>
+		</div>
+
+		<div class="header-cart-content flex-w js-pscroll">
+			<ul class="header-cart-wrapitem w-full">
+				<li class="header-cart-item flex-w flex-t m-b-12">
+					<div class="header-cart-item-img">
+						<img src="~/images/item-cart-01.jpg" alt="IMG">
+					</div>
+
+					<div class="header-cart-item-txt p-t-8">
+						<a href="#" class="header-cart-item-name m-b-18 hov-cl1 trans-04">
+							White Shirt Pleat
+						</a>
+
+						<span class="header-cart-item-info">
+							1 x $19.00
+						</span>
+					</div>
+				</li>
+
+				<li class="header-cart-item flex-w flex-t m-b-12">
+					<div class="header-cart-item-img">
+						<img src="~/images/item-cart-02.jpg" alt="IMG">
+					</div>
+
+					<div class="header-cart-item-txt p-t-8">
+						<a href="#" class="header-cart-item-name m-b-18 hov-cl1 trans-04">
+							Converse All Star
+						</a>
+
+						<span class="header-cart-item-info">
+							1 x $39.00
+						</span>
+					</div>
+				</li>
+
+				<li class="header-cart-item flex-w flex-t m-b-12">
+					<div class="header-cart-item-img">
+						<img src="~/images/item-cart-03.jpg" alt="IMG">
+					</div>
+
+					<div class="header-cart-item-txt p-t-8">
+						<a href="#" class="header-cart-item-name m-b-18 hov-cl1 trans-04">
+							Nixon Porter Leather
+						</a>
+
+						<span class="header-cart-item-info">
+							1 x $17.00
+						</span>
+					</div>
+				</li>
+			</ul>
+
+			<div class="w-full">
+				<div class="header-cart-total w-full p-tb-40">
+					Total: $75.00
+				</div>
+
+				<div class="header-cart-buttons flex-w w-full">
+					<a href="shoping-cart.html" class="flex-c-m stext-101 cl0 size-107 bg3 bor2 hov-btn3 p-lr-15 trans-04 m-r-8 m-b-10">
+						View Cart
+					</a>
+
+					<a href="shoping-cart.html" class="flex-c-m stext-101 cl0 size-107 bg3 bor2 hov-btn3 p-lr-15 trans-04 m-b-10">
+						Check Out
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+<!-- Slider -->
+<section class="section-slide">
+	<div class="wrap-slick1">
+		<div class="slick1">
+			<div class="item-slick1" style="background-image: url(images/slver1.png);">
+				<div class="container h-full">
+					<div class="flex-col-l-m h-full p-t-100 p-b-30 respon5">
+						<div class="layer-slick1 animated visible-false" data-appear="fadeInDown" data-delay="0">
+							<span class="ltext-101 cl2 respon2">
+								Bộ sưu tập chăm sóc da tốt nhất 2024
+							</span>
+						</div>
+
+						<div class="layer-slick1 animated visible-false" data-appear="fadeInUp" data-delay="800">
+							<h2 class="ltext-201 cl2 p-t-19 p-b-43 respon1">
+								khuyến mãi đến 50%
+							</h2>
+						</div>
+
+						<div class="layer-slick1 animated visible-false" data-appear="zoomIn" data-delay="1600">
+							<a href="/Products" class="flex-c-m stext-101 cl0 size-101 bg1 bor1 hov-btn1 p-lr-15 trans-04">
+								Mua ngay
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="item-slick1" style="background-image: url(images/sl1.webp);">
+				<div class="container h-full">
+					<div class="flex-col-l-m h-full p-t-100 p-b-30 respon5">
+						<div class="layer-slick1 animated visible-false" data-appear="rollIn" data-delay="0">
+							<span class="ltext-101 cl2 respon2">
+								Tiêu chuẩn phái đẹp
+							</span>
+						</div>
+
+						<div class="layer-slick1 animated visible-false" data-appear="lightSpeedIn" data-delay="800">
+							<h2 class="ltext-201 cl2 p-t-19 p-b-43 respon1">
+								Siêu sale 
+							</h2>
+						</div>
+
+						<div class="layer-slick1 animated visible-false" data-appear="slideInUp" data-delay="1600">
+							<a href="/Products" class="flex-c-m stext-101 cl0 size-101 bg1 bor1 hov-btn1 p-lr-15 trans-04">
+								Mua ngay
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="item-slick1" style="background-image: url(images/sll2.png);">
+				<div class="container h-full">
+					<div class="flex-col-l-m h-full p-t-100 p-b-30 respon5">
+						<div class="layer-slick1 animated visible-false" data-appear="rotateInDownLeft" data-delay="0">
+							<span class="ltext-101 cl2 respon2">
+								Bộ sưu tập chăm sóc da toàn thân
+							</span>
+						</div>
+
+						<div class="layer-slick1 animated visible-false" data-appear="rotateInUpRight" data-delay="800">
+							<h2 class="ltext-201 cl2 p-t-19 p-b-43 respon1">
+								Mua 1 tặng 1
+							</h2>
+						</div>
+
+						<div class="layer-slick1 animated visible-false" data-appear="rotateIn" data-delay="1600">
+							<a href="/Products" class="flex-c-m stext-101 cl0 size-101 bg1 bor1 hov-btn1 p-lr-15 trans-04">
+								Mua ngay
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<!-- Banner -->
+<div class="sec-banner bg0 p-t-80 p-b-50">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 col-xl-4 p-b-30 m-lr-auto">
+				<!-- Block1 -->
+				<div class="block1 wrap-pic-w">
+					<img src="~/images/srm1.png" alt="IMG-BANNER">
+
+					<a href="/Products/category/?Catid=1" class="block1-txt ab-t-l s-full flex-col-l-sb p-lr-38 p-tb-34 trans-03 respon3">
+						<div class="block1-txt-child1 flex-col-l">
+							<span class="block1-name ltext-102 trans-04 p-b-8" style="color: #d19696">
+								Kem dưỡng ẩm
+							</span>
+
+							<span class="block1-info stext-102 trans-04">
+								Săn SALE cực đã
+							</span>
+						</div>
+
+						<div class="block1-txt-child2 p-b-4 trans-05">
+							<div class="block1-link stext-101 cl0 trans-09">
+								Mua ngay
+							</div>
+						</div>
+					</a>
+				</div>
+			</div>
+
+			<div class="col-md-6 col-xl-4 p-b-30 m-lr-auto">
+				<!-- Block1 -->
+				<div class="block1 wrap-pic-w">
+					<img src="~/images/srm3.png" alt="IMG-BANNER">
+
+					<a href="/Products/category/?Catid=2" class="block1-txt ab-t-l s-full flex-col-l-sb p-lr-38 p-tb-34 trans-03 respon3">
+						<div class="block1-txt-child1 flex-col-l">
+							<span class="block1-name ltext-102 trans-04 p-b-8" style="color: #d19696">
+								Nước tẩy trang
+							</span>
+
+							<span class="block1-info stext-102 trans-04">
+								Ưu đãi đến 40%
+							</span>
+						</div>
+
+						<div class="block1-txt-child2 p-b-4 trans-05">
+							<div class="block1-link stext-101 cl0 trans-09">
+								Mua ngay
+							</div>
+						</div>
+					</a>
+				</div>
+			</div>
+
+			<div class="col-md-6 col-xl-4 p-b-30 m-lr-auto">
+				<!-- Block1 -->
+				<div class="block1 wrap-pic-w">
+					<img src="~/images/srm2.png" alt="IMG-BANNER">
+
+					<a href="/Products/category/?Catid=1005" class="block1-txt ab-t-l s-full flex-col-l-sb p-lr-38 p-tb-34 trans-03 respon3">
+						<div class="block1-txt-child1 flex-col-l">
+							<span class="block1-name ltext-102 trans-04 p-b-8" style="color: #d19696">
+								Sữa rửa mặt
+							</span>
+
+							<span class="block1-info stext-102 trans-04">
+								Deal HOT
+							</span>
+						</div>
+
+						<div class="block1-txt-child2 p-b-4 trans-05">
+							<div class="block1-link stext-101 cl0 trans-09">
+								Mua ngay
+							</div>
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<section>
+	<a href="/Products">
+		<img style="width: 100%; padding: 26px" src="~/images/bannnnnnnnnnnn1.webp"/>
+	</a>
+
+</section>
+
+<!-- Product -->
+<section class="bg0 p-t-23 p-b-40">
+	<div class="container">
+		<div class="p-b-10">
+			<h3 class="ltext-103 cl5 d-flex" style="justify-content:center">
+				Sản phẩm nổi bật
+			</h3>
+		</div>
+    </div> 
+	<div class="row isotope-grid" style="margin: 14px; position: relative; height: 320.876px;">
+		@foreach (var item in Model)
+		{
+			if (item.ProductsHot)
+			{
+				<div class="col-sm-6 col-md-4 col-lg-3 p-b-35 isotope-item women" style="position: absolute; left: 0%; top: 0px;">
+					<!-- Block2 -->
+					<div class="block2">
+						<div class="block2-pic hov-img0">
+							<img src="~/images/@item.Img1" alt="IMG-PRODUCT">
+
+							<a class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 " href="/Products/Details/1">
+								Mua ngay
+							</a>
+						</div>
+
+						<div class="block2-txt flex-w flex-t p-t-14">
+							<div class="block2-txt-child1 flex-col-l ">
+								<a class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6" href="/Products/Details/@item.Id">
+									@item.Name
+								</a>
+
+								<span class="stext-105 cl3">
+									@item.Price
+								</span>
+							</div>
+
+							<div class="block2-txt-child2 flex-r p-t-3">
+								<a href="/Cart/AddToCart/?productId=@item.Id" class="btn-addwish-b2 dis-block pos-relative ">
+
+									<i style="font-size:20px" class="zmdi zmdi-shopping-cart"></i>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			}
+		}
+	</div>
+
+    <!--  -->
+		<!-- Load more -->
+    <div class="flex-c-m flex-w w-full ">
+        <a href="/Products" class="flex-c-m stext-101 cl5 size-103 bg2 bor1 hov-btn1 p-lr-15 trans-04">
+            Load More
+        </a>
+    </div>
+<section>
+	<a href="/Products">
+		<img style="width: 100%; padding: 26px" src="~/images/bannnnnnn2.webp"/>
+	</a>
+
+</section>
+<section style="padding:14px; margin:10px">
+		<div class="container" style="padding:14px; margin:10px">
+			<div class="p-b-10">
+				<h3 class="ltext-103 cl5 d-flex" style="justify-content:center">
+					Sản phẩm được mua nhiều nhất
+				</h3>
+			</div>
+
+			<div class="dis-none panel-search w-full p-t-10 p-b-15">
+				<div class="bor8 dis-flex p-l-15">
+					<button class="size-113 flex-c-m fs-16 cl2 hov-cl1 trans-04">
+						<i class="zmdi zmdi-search"></i>
+					</button>
+
+					<input class="mtext-107 cl2 size-114 plh2 p-r-15" type="text" name="search-product" placeholder="Search">
+				</div>
+			</div>
+
+			<!-- Filter -->
+			<div class="dis-none panel-filter w-full p-t-10">
+				<div class="wrap-filter flex-w bg6 w-full p-lr-40 p-t-27 p-lr-15-sm">
+				</div>
+			</div>
+		</div>
+		<div class="row isotope-grid" style="position: relative; height: 1944.5px; padding-top:17px">
+			<div class="col-sm-6 col-md-4 col-lg-3 p-b-35 isotope-item women" style="position: absolute; left: 0%; top: 0px;">
+				<!-- Block2 -->
+				<div class="block2">
+					<div class="block2-pic hov-img0">
+						<img src="~/images/sp10.jpg" alt="IMG-PRODUCT">
+
+						<a href="Products/Details/2002" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
+							Mua ngay
+						</a>
+					</div>
+
+					<div class="block2-txt flex-w flex-t p-t-14">
+						<div class="block2-txt-child1 flex-col-l ">
+							<a asp-action="Details" asp-controller="Products" asp-route-id="2002" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
+								Nước Tẩy Trang Senka ALL Clear Water Micellar Fresh 230ML & 70ML
+							</a>
+
+							<span class="stext-105 cl3">
+								190.000
+							</span>
+						</div>
+
+						<div class="block2-txt-child2 flex-r p-t-3">
+							<a href="/Cart/AddToCart/?productId=2002" class="btn-addwish-b2 dis-block pos-relative ">
+
+								<i style="font-size:20px" class="zmdi zmdi-shopping-cart"></i>
+
+
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-6 col-md-4 col-lg-3 p-b-35 isotope-item women" style="position: absolute; left: 0%; top: 0px;">
+				<!-- Block2 -->
+				<div class="block2">
+					<div class="block2-pic hov-img0">
+						<img src="~/images/sp16.jpg" alt="IMG-PRODUCT">
+
+						<a asp-action="Details" asp-controller="Products" asp-route-id="4002" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
+							Mua ngay
+						</a>
+					</div>
+
+					<div class="block2-txt flex-w flex-t p-t-14">
+						<div class="block2-txt-child1 flex-col-l ">
+							<a asp-action="Details" asp-controller="Products" asp-route-id="4002" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
+								Nước Hoa Hồng Không Mùi Dear Klairs Dưỡng Ẩm Da Và Làm Mềm Da Supple Preparation Unscented HÀNG XÁCH AUTH (180ml
+							</a>
+
+							<span class="stext-105 cl3">
+								50.000
+							</span>
+						</div>
+
+						<div class="block2-txt-child2 flex-r p-t-3">
+							<a href="/Cart/AddToCart/?productId=4002" class="btn-addwish-b2 dis-block pos-relative ">
+
+								<i style="font-size:20px" class="zmdi zmdi-shopping-cart"></i>
+
+
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-6 col-md-4 col-lg-3 p-b-35 isotope-item women" style="position: absolute; left: 0%; top: 0px;">
+				<!-- Block2 -->
+				<div class="block2">
+					<div class="block2-pic hov-img0">
+						<img src="~/images/sp28.jpg" alt="IMG-PRODUCT">
+
+						<a asp-action="Details" asp-controller="Products" asp-route-id="5002" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
+							Mua ngay
+						</a>
+					</div>
+
+					<div class="block2-txt flex-w flex-t p-t-14">
+						<div class="block2-txt-child1 flex-col-l ">
+							<a asp-action="Details" asp-controller="Products" asp-route-id="5002" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
+								Kem Dưỡng Ẩm Ban Đêm Sáng Da OLAY LUMINOUS 50G
+							</a>
+
+							<span class="stext-105 cl3">
+								909.000
+							</span>
+						</div>
+
+						<div class="block2-txt-child2 flex-r p-t-3">
+							<a href="/Cart/AddToCart/?productId=5002" class="btn-addwish-b2 dis-block pos-relative ">
+
+								<i style="font-size:20px" class="zmdi zmdi-shopping-cart"></i>
+
+
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-6 col-md-4 col-lg-3 p-b-35 isotope-item women" style="position: absolute; left: 0%; top: 0px;">
+				<!-- Block2 -->
+				<div class="block2">
+					<div class="block2-pic hov-img0">
+						<img src="~/images/sp1.jpg" alt="IMG-PRODUCT">
+
+						<a asp-action="Details" asp-controller="Products" asp-route-id="1" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
+							Mua ngay
+						</a>
+					</div>
+
+					<div class="block2-txt flex-w flex-t p-t-14">
+						<div class="block2-txt-child1 flex-col-l ">
+							<a asp-action="Details" asp-controller="Products" asp-route-id="1" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
+								Gel rửa mặt Cosrx Good Morning 150ml/50ml chiết xuất trà xanh độ ph thấp
+							</a>
+
+							<span class="stext-105 cl3">
+								150.000
+							</span>
+						</div>
+
+						<div class="block2-txt-child2 flex-r p-t-3">
+							<a href="/Cart/AddToCart/?productId=1" class="btn-addwish-b2 dis-block pos-relative ">
+
+								<i style="font-size:20px" class="zmdi zmdi-shopping-cart"></i>
+
+
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+		
+		</div>
+</section>
+<section>
+<a href="/Products">
+		<img style="width: 100%; padding: 26px" src="~/images/bannnnnnn3.png"/>
+	</a>
+</section>

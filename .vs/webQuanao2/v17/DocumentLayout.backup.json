@@ -1,0 +1,383 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|d:\\!!!\\\u0111i\u1EC7n to\u00E1n \u0111\u00E1m m\u00E2y\\shopmypham\\shopmypham\\webquanao2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|solutionrelative:webquanao2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|d:\\!!!\\\u0111i\u1EC7n to\u00E1n \u0111\u00E1m m\u00E2y\\shopmypham\\shopmypham\\webquanao2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|solutionrelative:webquanao2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|d:\\!!!\\\u0111i\u1EC7n to\u00E1n \u0111\u00E1m m\u00E2y\\shopmypham\\shopmypham\\webquanao2\\database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|solutionrelative:webquanao2\\database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|d:\\!!!\\\u0111i\u1EC7n to\u00E1n \u0111\u00E1m m\u00E2y\\shopmypham\\shopmypham\\webquanao2\\webquanao2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|solutionrelative:webquanao2\\webquanao2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|d:\\!!!\\\u0111i\u1EC7n to\u00E1n \u0111\u00E1m m\u00E2y\\shopmypham\\shopmypham\\webquanao2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|solutionrelative:webquanao2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|d:\\!!!\\\u0111i\u1EC7n to\u00E1n \u0111\u00E1m m\u00E2y\\shopmypham\\shopmypham\\webquanao2\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|solutionrelative:webquanao2\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|d:\\!!!\\\u0111i\u1EC7n to\u00E1n \u0111\u00E1m m\u00E2y\\shopmypham\\shopmypham\\webquanao2\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|solutionrelative:webquanao2\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|d:\\!!!\\\u0111i\u1EC7n to\u00E1n \u0111\u00E1m m\u00E2y\\shopmypham\\shopmypham\\webquanao2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|solutionrelative:webquanao2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|d:\\!!!\\\u0111i\u1EC7n to\u00E1n \u0111\u00E1m m\u00E2y\\shopmypham\\shopmypham\\webquanao2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|solutionrelative:webquanao2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|d:\\!!!\\\u0111i\u1EC7n to\u00E1n \u0111\u00E1m m\u00E2y\\shopmypham\\shopmypham\\webquanao2\\views\\shared\\_cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|solutionrelative:webquanao2\\views\\shared\\_cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|d:\\!!!\\\u0111i\u1EC7n to\u00E1n \u0111\u00E1m m\u00E2y\\shopmypham\\shopmypham\\webquanao2\\views\\shared\\_admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|solutionrelative:webquanao2\\views\\shared\\_admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|d:\\!!!\\\u0111i\u1EC7n to\u00E1n \u0111\u00E1m m\u00E2y\\shopmypham\\shopmypham\\webquanao2\\views\\shared\\_blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|solutionrelative:webquanao2\\views\\shared\\_blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|d:\\!!!\\\u0111i\u1EC7n to\u00E1n \u0111\u00E1m m\u00E2y\\shopmypham\\shopmypham\\webquanao2\\views\\shared\\_contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|solutionrelative:webquanao2\\views\\shared\\_contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|d:\\!!!\\\u0111i\u1EC7n to\u00E1n \u0111\u00E1m m\u00E2y\\shopmypham\\shopmypham\\webquanao2\\views\\shared\\_productsdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|solutionrelative:webquanao2\\views\\shared\\_productsdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|d:\\!!!\\\u0111i\u1EC7n to\u00E1n \u0111\u00E1m m\u00E2y\\shopmypham\\shopmypham\\webquanao2\\views\\shared\\_products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|solutionrelative:webquanao2\\views\\shared\\_products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|d:\\!!!\\\u0111i\u1EC7n to\u00E1n \u0111\u00E1m m\u00E2y\\shopmypham\\shopmypham\\webquanao2\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|solutionrelative:webquanao2\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|d:\\!!!\\\u0111i\u1EC7n to\u00E1n \u0111\u00E1m m\u00E2y\\shopmypham\\shopmypham\\webquanao2\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|solutionrelative:webquanao2\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|d:\\!!!\\\u0111i\u1EC7n to\u00E1n \u0111\u00E1m m\u00E2y\\shopmypham\\shopmypham\\webquanao2\\views\\blog\\blogdetail1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|solutionrelative:webquanao2\\views\\blog\\blogdetail1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|d:\\!!!\\\u0111i\u1EC7n to\u00E1n \u0111\u00E1m m\u00E2y\\shopmypham\\shopmypham\\webquanao2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|solutionrelative:webquanao2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|d:\\!!!\\\u0111i\u1EC7n to\u00E1n \u0111\u00E1m m\u00E2y\\shopmypham\\shopmypham\\webquanao2\\models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|solutionrelative:webquanao2\\models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|d:\\!!!\\\u0111i\u1EC7n to\u00E1n \u0111\u00E1m m\u00E2y\\shopmypham\\shopmypham\\webquanao2\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|solutionrelative:webquanao2\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|d:\\!!!\\\u0111i\u1EC7n to\u00E1n \u0111\u00E1m m\u00E2y\\shopmypham\\shopmypham\\webquanao2\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|solutionrelative:webquanao2\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|d:\\!!!\\\u0111i\u1EC7n to\u00E1n \u0111\u00E1m m\u00E2y\\shopmypham\\shopmypham\\webquanao2\\database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{9FB779B9-C431-40A8-A6B9-72A03ABC9057}|webQuanao2\\webQuanao2.csproj|solutionrelative:webquanao2\\database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "database.sql ",
+              "DocumentMoniker": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\database.sql",
+              "RelativeDocumentMoniker": "webQuanao2\\database.sql",
+              "ToolTip": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\database.sql",
+              "RelativeToolTip": "webQuanao2\\database.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-28T16:17:01.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "webQuanao2",
+              "DocumentMoniker": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\webQuanao2.csproj",
+              "RelativeDocumentMoniker": "webQuanao2\\webQuanao2.csproj",
+              "ToolTip": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\webQuanao2.csproj",
+              "RelativeToolTip": "webQuanao2\\webQuanao2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-28T16:13:48.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\appsettings.json",
+              "RelativeDocumentMoniker": "webQuanao2\\appsettings.json",
+              "ToolTip": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\appsettings.json",
+              "RelativeToolTip": "webQuanao2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T05:34:24.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "webQuanao2\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "webQuanao2\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T04:47:55.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "webQuanao2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "webQuanao2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAEYBAAAAAAAAAAAiwFIBAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T04:38:27.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "webQuanao2\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "webQuanao2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAArwBMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T04:47:45.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Products.cshtml",
+              "DocumentMoniker": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Views\\Shared\\_Products.cshtml",
+              "RelativeDocumentMoniker": "webQuanao2\\Views\\Shared\\_Products.cshtml",
+              "ToolTip": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Views\\Shared\\_Products.cshtml",
+              "RelativeToolTip": "webQuanao2\\Views\\Shared\\_Products.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T15:23:18.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Admin.cshtml",
+              "DocumentMoniker": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Views\\Shared\\_Admin.cshtml",
+              "RelativeDocumentMoniker": "webQuanao2\\Views\\Shared\\_Admin.cshtml",
+              "ToolTip": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Views\\Shared\\_Admin.cshtml",
+              "RelativeToolTip": "webQuanao2\\Views\\Shared\\_Admin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T15:26:57.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "webQuanao2\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "webQuanao2\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T15:08:55.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "webQuanao2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "webQuanao2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAAAJUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T14:46:03.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Cart.cshtml",
+              "DocumentMoniker": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Views\\Shared\\_Cart.cshtml",
+              "RelativeDocumentMoniker": "webQuanao2\\Views\\Shared\\_Cart.cshtml",
+              "ToolTip": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Views\\Shared\\_Cart.cshtml",
+              "RelativeToolTip": "webQuanao2\\Views\\Shared\\_Cart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T15:26:27.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Program.cs",
+              "RelativeDocumentMoniker": "webQuanao2\\Program.cs",
+              "ToolTip": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Program.cs",
+              "RelativeToolTip": "webQuanao2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T14:15:46.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Products.cs",
+              "DocumentMoniker": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "webQuanao2\\Models\\Products.cs",
+              "ToolTip": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Models\\Products.cs",
+              "RelativeToolTip": "webQuanao2\\Models\\Products.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA8wB8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T14:50:29.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ProductsDetail.cshtml",
+              "DocumentMoniker": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Views\\Shared\\_ProductsDetail.cshtml",
+              "RelativeDocumentMoniker": "webQuanao2\\Views\\Shared\\_ProductsDetail.cshtml",
+              "ToolTip": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Views\\Shared\\_ProductsDetail.cshtml",
+              "RelativeToolTip": "webQuanao2\\Views\\Shared\\_ProductsDetail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T15:26:03.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Contact.cshtml",
+              "DocumentMoniker": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Views\\Shared\\_Contact.cshtml",
+              "RelativeDocumentMoniker": "webQuanao2\\Views\\Shared\\_Contact.cshtml",
+              "ToolTip": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Views\\Shared\\_Contact.cshtml",
+              "RelativeToolTip": "webQuanao2\\Views\\Shared\\_Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T15:26:14.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "webQuanao2\\Views\\Products\\Create.cshtml",
+              "ToolTip": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "webQuanao2\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T14:50:15.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Blog.cshtml",
+              "DocumentMoniker": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Views\\Shared\\_Blog.cshtml",
+              "RelativeDocumentMoniker": "webQuanao2\\Views\\Shared\\_Blog.cshtml",
+              "ToolTip": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Views\\Shared\\_Blog.cshtml",
+              "RelativeToolTip": "webQuanao2\\Views\\Shared\\_Blog.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T14:49:43.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BlogDetail1.cshtml",
+              "DocumentMoniker": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Views\\Blog\\BlogDetail1.cshtml",
+              "RelativeDocumentMoniker": "webQuanao2\\Views\\Blog\\BlogDetail1.cshtml",
+              "ToolTip": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Views\\Blog\\BlogDetail1.cshtml",
+              "RelativeToolTip": "webQuanao2\\Views\\Blog\\BlogDetail1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T14:50:03.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Models\\User.cs",
+              "RelativeDocumentMoniker": "webQuanao2\\Models\\User.cs",
+              "ToolTip": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Models\\User.cs",
+              "RelativeToolTip": "webQuanao2\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T14:47:51.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Color.cs",
+              "DocumentMoniker": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Models\\Color.cs",
+              "RelativeDocumentMoniker": "webQuanao2\\Models\\Color.cs",
+              "ToolTip": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Models\\Color.cs",
+              "RelativeToolTip": "webQuanao2\\Models\\Color.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T14:47:45.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "webQuanao2\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Controllers\\CartController.cs",
+              "RelativeToolTip": "webQuanao2\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T14:44:17.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "webQuanao2\\Models\\Cart.cs",
+              "ToolTip": "D:\\!!!\\\u0110i\u1EC7n to\u00E1n \u0110\u00C1M M\u00C2Y\\ShopMyPham\\ShopMyPham\\webQuanao2\\Models\\Cart.cs",
+              "RelativeToolTip": "webQuanao2\\Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T14:44:17.25Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

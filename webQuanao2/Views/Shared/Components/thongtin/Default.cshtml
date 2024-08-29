@@ -1,0 +1,138 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model webQuanao2.Models.Order
+<section class="vh-100" style="background-color: #eee;">
+    <div class="container h-100">
+        <div class="row d-flex justify-content-center align-items-center h-100">
+            <div class="col-lg-12 col-xl-11">
+                <div class="card text-black" style="border-radius: 25px;">
+                    <div class="card-body p-md-5">
+                        <div class="row justify-content-center">
+                            <div class="col-md-10 col-lg-6 col-xl-5 order-2 order-lg-1">
+
+                                <p class="text-center h1 fw-bold mb-5 mx-1 mx-md-4 mt-4">Địa chỉ</p>
+
+                                <form class="mx-1 mx-md-4">
+
+                                    <div class="d-flex flex-row align-items-center mb-4">
+                                        <span  class="material-symbols-outlined">
+                                            person
+                                        </span>
+                                        <div class="form-outline flex-fill mb-0">
+                                            <input asp-for="Name" type="text" id="form3Example1c" style="border-bottom:1px solid " placeholder="Your Name" />
+                                      
+                                            <span asp-validation-for="Name" class=""></span>
+                                        </div>
+                                    </div>
+
+                                    <div class="d-flex flex-row align-items-center mb-4">
+                                        <span class="material-symbols-outlined">
+                                            call
+                                        </span>
+                                        <div class="form-outline flex-fill mb-0">
+                                            <input asp-for="Phone" id="form3Example3c" style="border-bottom:1px solid " placeholder="Phone" />
+                                            
+                                            <span asp-validation-for="Phone" class="text-danger"></span>
+                                        </div>
+                                    </div>
+
+                                    <div class="d-flex flex-row align-items-center mb-4">
+                                        <span class="material-symbols-outlined">
+pin_drop
+</span>
+                                        <div class="form-outline flex-fill mb-0">
+                                            <input asp-for="tinh" id="form3Example4c" style="border-bottom:1px solid " placeholder="Tỉnh" />
+                                            <span asp-validation-for="tinh" class="text-danger"></span>
+                                        </div>
+                                    </div>
+                                      <div class="d-flex flex-row align-items-center mb-4">
+                                        <span class="material-symbols-outlined">
+                                            pin_drop
+                                        </span>
+                                        <div class="form-outline flex-fill mb-0">
+                                            <input asp-for="thixa" id="form3Example4c"  style="border-bottom:1px solid " placeholder="Huyện/Thị xã" />
+                                           
+                                            <span asp-validation-for="thixa" class="text-danger"></span>
+                                        </div>
+                                    </div>
+                                      <div class="d-flex flex-row align-items-center mb-4">
+                                        <span class="material-symbols-outlined">
+                                            pin_drop
+                                        </span>
+                                        <div class="form-outline flex-fill mb-0">
+                                            <input asp-for="phuong" id="form3Example4c"  style="border-bottom:1px solid " placeholder="Xã/Phường" />
+                                            
+                                            <span asp-validation-for="phuong" class="text-danger"></span>
+                                        </div>
+                                    </div>
+                                  
+
+                                    
+
+                                    <div class="d-flex justify-content-center mx-4 mb-3 mb-lg-4">
+                                        <input type="submit" value="Create" class="btn btn-primary" />
+                                    </div>
+
+                                </form>
+
+                            </div>
+                            <div class="col-md-10 col-lg-6 col-xl-7 d-flex align-items-center order-1 order-lg-2">
+
+                                <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-registration/draw1.webp"
+                                     class="img-fluid" alt="Sample image">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<div class="row" style="justify-content:center">
+    <div class="c">
+        <form  asp-action="Create" style="width:400px; margin: 20px">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="CreatedDate" class="control-label"></label>
+                <input asp-for="CreatedDate" class="form-control" />
+                <span asp-validation-for="CreatedDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="userId" class="control-label"></label>
+                <select asp-for="userId" class="form-control" asp-items="ViewBag.userId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Phone" class="control-label"></label>
+                <input asp-for="Phone" class="form-control" />
+                <span asp-validation-for="Phone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="tinh" class="control-label"></label>
+                <input asp-for="tinh" class="form-control" />
+                <span asp-validation-for="tinh" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="thixa" class="control-label"></label>
+                <input asp-for="thixa" class="form-control" />
+                <span asp-validation-for="thixa" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="phuong" class="control-label"></label>
+                <input asp-for="phuong" class="form-control" />
+                <span asp-validation-for="phuong" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
